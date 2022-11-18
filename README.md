@@ -1,5 +1,5 @@
 # Laboratorio-2
-# Laboratorio-1
+
 -Aguirre Johan
 
 -Calahorrano Sarahi
@@ -125,12 +125,13 @@
 https://youtu.be/oho3zDbcY4I
 
 6.	CONCLUSIONES
-    -	El laboratorio realizado por las leyes de Kirchoff nos hace entender que gracias a ellas podemos resolver sin mayor complicación circuitos eléctricos complejos.
-    - La primera ley de Kirchhof es válida: en un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son casi iguales.
-    -	La segunda ley de Kirchhof también es cierta: en una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, la suma es prácticamente cero.
+
+    -	Se recomienda tener cuidado al realizar las conexiones en el protoboard, ya que estas deben estar bien hechas antes de conectar las fuentes.
+    -	Dar un buen trato a los instrumentos de medición como el multímetro, de caso contrario los instrumentos pueden sufrir algún daño grave.
+    -	En la realización de esta práctica verificamos y además aprendimos a manejar de una manera correcta el protoboard, que también nos ayudó a conectar los distintos tipos de circuitos o mallas.
+
    
  7.	BIBLIOGRAFÍA
-    -	MecatrónicaLATAM. (2021). Leyes de Kirchhoff. Recuperado de: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/ 
-    -	Geek Electrónica. (2018). Leyes de Kirchhoff. Recuperado de: https://geekelectronica.com/leyes-de-kirchhoff/ 
-    -	Gouveia. R. (2018). Ley de Ohm. Recuperado de: https://www.todamateria.com/ley-de-ohm/ 
-    -	Paco Santana Cáceres. (2014, March 12). Leyes de Kirchhoff. Blog de Tecnología - IES José Arencibia Gil - Telde. https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/03/12/leyes-de-kirchhoff/#:~:text=Ley%20de%20tensiones%20de%20Kirchhoff&text=La%20ley%20de%20las%20mallas,lazo%20es%20igual%20a%20cero.
+    -	Khan Academy. (2020). El método de la corriente de malla. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method 
+    -	Análisis de circuitos. (2019). Capítulo 21: Análisis de Mallas. Recuperado de: https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/ 
+
