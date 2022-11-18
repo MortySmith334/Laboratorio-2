@@ -28,19 +28,33 @@
 
   *LEY DE CORRIENTE DE KIRCHHOFF* 
   
-    -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
-    -	La ley se basa en el principio de la conservación de la carga donde la carga en colombios es el producto de la corriente en amperios y el tiempo en segundos.
-    -	Por definición, un nodo es un punto de una red eléctrica en el cual convergen tres o más conductores.
-    -	Esta primera ley confirma el principio de la conservación de las cargas eléctricas.
+   -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
+   
+   -	La ley se basa en el principio de la conservación de la carga donde la carga en colombios es el producto de la corriente en amperios y el tiempo en segundos.
+   
+   -	Por definición, un nodo es un punto de una red eléctrica en el cual convergen tres o más conductores.
+   -	Esta primera ley confirma el principio de la conservación de las cargas eléctricas.
 
   *ANALISIS DE MALLAS EN UN CIRCUITO*   
    
   -	El método de la corriente de malla es otro método bien organizado para resolver circuitos (el otro es el del voltaje en los nodos).
+  
   -	El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff (LVK).
   
-
+  *LAZOS Y MALLAS*
+  
+   - El método de la corriente de malla utiliza dos términos especiales: lazo y malla
+  
+   [![1.png](https://i.postimg.cc/KjfYNKPY/1.png)](https://postimg.cc/MfcxZprk)
    
+   -	Un lazo es cualquier trayectoria cerrada alrededor de un circuito.
    
+   -	Solo puede pasar por un elemento una vez.
+   
+  *CORRIENTE DE MALLA*
+  
+   -	Corriente que circula solo alrededor del perímetro de una malla.
+  
    
 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
