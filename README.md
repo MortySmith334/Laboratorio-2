@@ -42,7 +42,7 @@
   -	El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff (LVK).
   
   *LAZOS Y MALLAS*
-  
+
    - El método de la corriente de malla utiliza dos términos especiales: lazo y malla
   
    [![1.png](https://i.postimg.cc/KjfYNKPY/1.png)](https://postimg.cc/MfcxZprk)
@@ -54,7 +54,6 @@
   *CORRIENTE DE MALLA*
   
    -	Corriente que circula solo alrededor del perímetro de una malla.
-  
    
 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -62,7 +61,6 @@
 
 [![2.png](https://i.postimg.cc/3J2sPMVg/2.png)](https://postimg.cc/vcH2VKQB)
 
-  
    3.2. PROCEDIMIENTO
    
    i.	Implemente el circuito que se presenta en la figura 2.1
@@ -71,7 +69,6 @@
    
    [![4.png](https://i.postimg.cc/fT7P8cSC/4.png)](https://postimg.cc/KRzQzgN3)
 
-   
    ii.	Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
    
    *CÁLCULO DE INTENSIDADES*
@@ -91,12 +88,10 @@
    ![image](https://user-images.githubusercontent.com/116812841/202649759-6ab43ad3-6ba8-40a0-a9ed-9c2f55513160.png)
    
    ![image](https://user-images.githubusercontent.com/116812841/202649807-dc3f08ab-10e9-4405-9454-5cad72e94913.png)
-
-
-
-
-
-
+   
+   *RESULTADOS CALCULADOS DE I1, I2 E I3.*
+   
+   [![11.png](https://i.postimg.cc/Yqc7qvDF/11.png)](https://postimg.cc/t7zwB4jR)
    
    *INTENSIDAD EN MALLA 1*
    
@@ -111,21 +106,16 @@
    [![7.png](https://i.postimg.cc/m269fq9g/7.png)](https://postimg.cc/6ynqCMzk)
    
    
-
-   
    iii.	Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1. 
    
    [![8.png](https://i.postimg.cc/tT2TdZt4/8.png)](https://postimg.cc/S2YkkKvB)
-   
    
    iv.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
    
    *Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.* 
    
    ![image](https://user-images.githubusercontent.com/116812841/202636993-b42ec2dd-7ae1-47c8-8af7-033cd2d9544c.png)
-
    
-
 4.	CÁLCULO DEL ERROR
 
 [![56.png](https://i.postimg.cc/tCMnrcJk/56.png)](https://postimg.cc/crfJCXQt)
@@ -133,12 +123,10 @@
 *MARGEN DE ERROR EN LA INTENSIDAD DE M1*
 
   ![image](https://user-images.githubusercontent.com/116812841/202637334-04214bd9-17b3-4701-919a-90ad9f76bcb0.png)
-
-
+  
 *MARGEN DE ERROR EN LA INTENSIDAD DE M2*
 
   ![image](https://user-images.githubusercontent.com/116812841/202637401-42146c32-a573-40f4-bc02-c8147b9f10cd.png)
-
 
 *MARGEN DE ERROR EN LA INTENSIDAD DE M3*
 
@@ -146,14 +134,13 @@
 
 5.	VIDEO
 
-https://youtu.be/oho3zDbcY4I
+
 
 6.	CONCLUSIONES
 
     -	Se recomienda tener cuidado al realizar las conexiones en el protoboard, ya que estas deben estar bien hechas antes de conectar las fuentes.
     -	Dar un buen trato a los instrumentos de medición como el multímetro, de caso contrario los instrumentos pueden sufrir algún daño grave.
     -	En la realización de esta práctica verificamos y además aprendimos a manejar de una manera correcta el protoboard, que también nos ayudó a conectar los distintos tipos de circuitos o mallas.
-
    
  7.	BIBLIOGRAFÍA
     -	Khan Academy. (2020). El método de la corriente de malla. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method 
