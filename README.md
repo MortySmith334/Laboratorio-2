@@ -134,9 +134,9 @@
 
 5.	VIDEO
 
-
-
-6.	CONCLUSIONES
+   https://www.youtube.com/watch?v=e-cxWwasZ6o
+ 
+7.	CONCLUSIONES
 
     -	Se recomienda tener cuidado al realizar las conexiones en el protoboard, ya que estas deben estar bien hechas antes de conectar las fuentes.
     -	Dar un buen trato a los instrumentos de medición como el multímetro, de caso contrario los instrumentos pueden sufrir algún daño grave.
