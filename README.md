@@ -60,27 +60,46 @@
 
    3.1.  MATERIAL Y EQUIPO REQUERIDO
 
-[![Imagen5.png](https://i.postimg.cc/B6swY0CP/Imagen5.png)](https://postimg.cc/mcXwkKJT)
+[![2.png](https://i.postimg.cc/3J2sPMVg/2.png)](https://postimg.cc/vcH2VKQB)
 
   
    3.2. PROCEDIMIENTO
    
-   i.	Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+   i.	Implemente el circuito que se presenta en la figura 2.1
    
-   [![Imagen6.png](https://i.postimg.cc/qqNcQbWC/Imagen6.png)](https://postimg.cc/xNSb1Rf0)
+   [![3.png](https://i.postimg.cc/7P2d28xp/3.png)](https://postimg.cc/bdq375ST)
    
-   ii.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+   [![4.png](https://i.postimg.cc/fT7P8cSC/4.png)](https://postimg.cc/KRzQzgN3)
 
    
-   iii.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+   ii.	Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
    
-   [![21.png](https://i.postimg.cc/FRwtTq1M/21.png)](https://postimg.cc/47vFdW6P)
+   *INTENSIDAD EN MALLA 1*
+   
+   [![5.png](https://i.postimg.cc/bYxLPzYN/5.png)](https://postimg.cc/gr03qb6f)
+   
+   *INTENSIDAD EN MALLA 2*
+   
+   [![6.png](https://i.postimg.cc/bJXHX5Kt/6.png)](https://postimg.cc/sBcZ7Tfj)
+   
+   *INTENSIDAD EN MALLA 3*
+   
+   [![7.png](https://i.postimg.cc/m269fq9g/7.png)](https://postimg.cc/6ynqCMzk)
    
    
-   iv.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
    
-   [![55.png](https://i.postimg.cc/cCRL1KhF/55.png)](https://postimg.cc/30wTnxPG)
+   iii.	Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1. 
+   
+   [![8.png](https://i.postimg.cc/tT2TdZt4/8.png)](https://postimg.cc/S2YkkKvB)
+   
+   
+   iv.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
+   
+   *Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.* 
+   
+   ![image](https://user-images.githubusercontent.com/116812841/202636993-b42ec2dd-7ae1-47c8-8af7-033cd2d9544c.png)
+
    
 
 
