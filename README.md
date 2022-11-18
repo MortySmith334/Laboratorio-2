@@ -74,6 +74,30 @@
    
    ii.	Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
    
+   *CÁLCULO DE INTENSIDADES*
+   
+   [![10.png](https://i.postimg.cc/NGSM6PK3/10.png)](https://postimg.cc/xqGnY5y5)
+   
+   [![9.png](https://i.postimg.cc/65MZxhqz/9.png)](https://postimg.cc/rKtsSxSt)
+   
+   *SISTEMA DE ECUACIONES*
+   
+   [![11.png](https://i.postimg.cc/Yqc7qvDF/11.png)](https://postimg.cc/t7zwB4jR)
+   
+   ![image](https://user-images.githubusercontent.com/116812841/202649660-574db397-3a1e-4da2-85ca-380908d6d4a3.png)
+   
+   ![image](https://user-images.githubusercontent.com/116812841/202649702-77adc713-93d6-471a-b477-9c983bea0e53.png)
+   
+   ![image](https://user-images.githubusercontent.com/116812841/202649759-6ab43ad3-6ba8-40a0-a9ed-9c2f55513160.png)
+   
+   ![image](https://user-images.githubusercontent.com/116812841/202649807-dc3f08ab-10e9-4405-9454-5cad72e94913.png)
+
+
+
+
+
+
+   
    *INTENSIDAD EN MALLA 1*
    
    [![5.png](https://i.postimg.cc/bYxLPzYN/5.png)](https://postimg.cc/gr03qb6f)
