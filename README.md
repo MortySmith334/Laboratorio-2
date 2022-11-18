@@ -102,16 +102,23 @@
 
    
 
-
-
 4.	CÁLCULO DEL ERROR
 
 [![56.png](https://i.postimg.cc/tCMnrcJk/56.png)](https://postimg.cc/crfJCXQt)
 
-[![57.png](https://i.postimg.cc/nL8jxQvQ/57.png)](https://postimg.cc/RWRVQhpM)
+*MARGEN DE ERROR EN LA INTENSIDAD DE M1*
 
-[![58.png](https://i.postimg.cc/254qS8w9/58.png)](https://postimg.cc/1g3RWSbD)
+  ![image](https://user-images.githubusercontent.com/116812841/202637334-04214bd9-17b3-4701-919a-90ad9f76bcb0.png)
 
+
+*MARGEN DE ERROR EN LA INTENSIDAD DE M2*
+
+  ![image](https://user-images.githubusercontent.com/116812841/202637401-42146c32-a573-40f4-bc02-c8147b9f10cd.png)
+
+
+*MARGEN DE ERROR EN LA INTENSIDAD DE M3*
+
+  ![image](https://user-images.githubusercontent.com/116812841/202637452-ec09431a-2033-4bc5-abf6-27b0f384fb60.png)
 
 5.	VIDEO
 
