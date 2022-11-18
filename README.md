@@ -91,7 +91,7 @@
    
    *RESULTADOS CALCULADOS DE I1, I2 E I3.*
    
-   [![11.png](https://i.postimg.cc/Yqc7qvDF/11.png)](https://postimg.cc/t7zwB4jR)
+   [![12.png](https://i.postimg.cc/VNBy6gT0/12.png)](https://postimg.cc/kV4YYQ77)
    
    *INTENSIDAD EN MALLA 1*
    
